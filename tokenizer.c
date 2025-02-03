@@ -1,4 +1,3 @@
-// Name: Alex Nelson (U42895792)
 // Description: This program takes in two files, reads the text of one of them, tokenizes each word and outputs a sorted list of the unique words, along with numbers associated with thier positions.
 
 #include <stdio.h>
